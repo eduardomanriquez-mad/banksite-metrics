@@ -1,0 +1,22 @@
+{
+  "name": "banksite-metrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardomanriquez-mad/banksite-metrics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardomanriquez-mad/banksite-metrics/issues"
+  },
+  "homepage": "https://github.com/eduardomanriquez-mad/banksite-metrics#readme",
+  "devDependencies": {
+    "cypress": "^13.15.0"
+  }
+}
